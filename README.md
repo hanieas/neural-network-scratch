@@ -32,13 +32,19 @@ The sigmoid activation function is a commonly used activation function in neural
 
 The sigmoid function is defined as:
 
-f(x) = 1 / (1 + exp(-x))
+![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/19b1a7a0-7f8e-4295-b237-0e053e5e2831)
 
 # Backward Propagation
 
 Backpropagation is an algorithm used to train neural networks by adjusting the weights and biases of the neurons in the network in order to minimize the difference between the predicted output and the actual output. It is a form of supervised learning, where the network is given a set of labeled training data and uses this data to learn how to make predictions on new, unseen data.
 
 During the training process, the input data is passed through the neural network using the current weights and biases to compute the output of each neuron. The error between the predicted output and the actual output is then computed with loss function, and this error is used to adjust the weights and biases in the network using the backpropagation algorithm.
+
+![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/3f2a9a2c-5d09-4491-8895-8914bd6c52c6)
+
+
+![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/2fee83c5-c93c-4e99-9200-76e83cb4e305)
+
 
 ![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/df9b8352-8ba9-42d7-b623-e027dc3dbaae)
 
