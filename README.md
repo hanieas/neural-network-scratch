@@ -2,8 +2,7 @@
 
 The neural network of this repository has the below structure.
 
-<img width="361" alt="Screenshot 2023-05-29 at 1 59 11 PM" src="https://github.com/hanieas/neural-network-scratch/assets/26707806/c7c43913-8149-4409-8f4c-eee5d4e1c6fa">
-
+<img width="361" alt="Screenshot 2023-05-29 at 1 59 11 PM" src="https://github.com/hanieas/neural-network-scratch/assets/26707806/2624c906-0480-4052-880f-ba29cdf0a208">
 
 This network has 2 inputs, a hidden layer with 2 neurons (h1 and h2). and an output layer with 1 neuron (O1). Notice that the inputs for O1 are the outputs from h1 and h2.
 
@@ -11,7 +10,7 @@ This network has 2 inputs, a hidden layer with 2 neurons (h1 and h2). and an out
 
 A neuron is the fundamental building block of a neural network. Its function involves receiving input signals, performing mathematical computations on these inputs, and generating a single output.
 
-<img width="694" alt="Screenshot 2023-06-10 at 5 12 20 PM" src="https://github.com/hanieas/neural-network-scratch/assets/26707806/badafabd-3e89-494b-843a-64b1bfcd7cbc">
+<img width="694" alt="Screenshot 2023-06-10 at 5 12 20 PM" src="https://github.com/hanieas/neural-network-scratch/assets/26707806/346b12c7-dd6a-4ffa-a393-4dabad0d4351">
 
 # Forward Propagation
 
@@ -32,7 +31,7 @@ The sigmoid activation function is a commonly used activation function in neural
 
 The sigmoid function is defined as:
 
-![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/19b1a7a0-7f8e-4295-b237-0e053e5e2831)
+![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/7bf7bfe2-4415-4762-855d-ec3a23bffd63)
 
 # Backward Propagation
 
@@ -40,15 +39,15 @@ Backpropagation is an algorithm used to train neural networks by adjusting the w
 
 During the training process, the input data is passed through the neural network using the current weights and biases to compute the output of each neuron. The error between the predicted output and the actual output is then computed with loss function, and this error is used to adjust the weights and biases in the network using the backpropagation algorithm.
 
-![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/df9b8352-8ba9-42d7-b623-e027dc3dbaae)
+![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/f447e74c-9458-4cb5-95fe-795ba17cffb4)
 
-![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/3f2a9a2c-5d09-4491-8895-8914bd6c52c6)
+![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/caef4323-3632-4dcd-89fb-fe8ecc569780)
 
-
-![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/2fee83c5-c93c-4e99-9200-76e83cb4e305)
+![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/d334648d-50ee-44f1-bb7e-74c1f372000a)
 
 ## Loss Function
 
 Mean squared error (MSE) loss is a widely-used loss function in machine learning and statistics that measures the average squared difference between the predicted values and the actual target values.
 
-![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/606d2ddd-eb8f-40cd-b7c0-a92a2a2416c4)
+![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/5e49c821-ed33-426d-88ad-51899b2254ae)
+
