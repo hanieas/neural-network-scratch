@@ -40,19 +40,15 @@ Backpropagation is an algorithm used to train neural networks by adjusting the w
 
 During the training process, the input data is passed through the neural network using the current weights and biases to compute the output of each neuron. The error between the predicted output and the actual output is then computed with loss function, and this error is used to adjust the weights and biases in the network using the backpropagation algorithm.
 
+![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/df9b8352-8ba9-42d7-b623-e027dc3dbaae)
+
 ![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/3f2a9a2c-5d09-4491-8895-8914bd6c52c6)
 
 
 ![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/2fee83c5-c93c-4e99-9200-76e83cb4e305)
-
-
-![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/df9b8352-8ba9-42d7-b623-e027dc3dbaae)
-
 
 ## Loss Function
 
 Mean squared error (MSE) loss is a widely-used loss function in machine learning and statistics that measures the average squared difference between the predicted values and the actual target values.
 
 ![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/606d2ddd-eb8f-40cd-b7c0-a92a2a2416c4)
-
-
