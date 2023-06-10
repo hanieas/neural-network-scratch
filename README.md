@@ -2,11 +2,16 @@
 
 The neural network of this repository has the below structure.
 
+<img width="361" alt="Screenshot 2023-05-29 at 1 59 11 PM" src="https://github.com/hanieas/neural-network-scratch/assets/26707806/c7c43913-8149-4409-8f4c-eee5d4e1c6fa">
+
+
 This network has 2 inputs, a hidden layer with 2 neurons (h1 and h2). and an output layer with 1 neuron (O1). Notice that the inputs for O1 are the outputs from h1 and h2.
 
 # Neurons
 
 A neuron is the fundamental building block of a neural network. Its function involves receiving input signals, performing mathematical computations on these inputs, and generating a single output.
+
+<img width="694" alt="Screenshot 2023-06-10 at 5 12 20 PM" src="https://github.com/hanieas/neural-network-scratch/assets/26707806/badafabd-3e89-494b-843a-64b1bfcd7cbc">
 
 # Forward Propagation
 
@@ -35,7 +40,13 @@ Backpropagation is an algorithm used to train neural networks by adjusting the w
 
 During the training process, the input data is passed through the neural network using the current weights and biases to compute the output of each neuron. The error between the predicted output and the actual output is then computed with loss function, and this error is used to adjust the weights and biases in the network using the backpropagation algorithm.
 
+![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/df9b8352-8ba9-42d7-b623-e027dc3dbaae)
+
+
 ## Loss Function
 
 Mean squared error (MSE) loss is a widely-used loss function in machine learning and statistics that measures the average squared difference between the predicted values and the actual target values.
+
+![image](https://github.com/hanieas/neural-network-scratch/assets/26707806/606d2ddd-eb8f-40cd-b7c0-a92a2a2416c4)
+
 
